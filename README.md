@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bib265
+- 👋 Hi, I’m Bibin Biju
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on AI projects .woohoo
